@@ -1,2 +1,2 @@
 # OfekPinukim
-האתר **בבנייה**, למידע נוסף פנו אלי בדיסקורד:__IdoLi#1234__
+Random Website
